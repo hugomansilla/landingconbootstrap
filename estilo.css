@@ -1,0 +1,29 @@
+.navbar{
+	position: fixed;
+}
+.Parte1{
+	background-image: url(images/bg.jpeg);
+	height: 700px;
+	color: white;
+	padding-top: 10%;
+}
+.Parte1 div h1 {
+	font-size: 4em;
+}
+.Parte3 div p {
+	font-size: 1em;
+}
+.Parte4{
+	height: 250px;
+}
+
+.centrar {
+	text-align: center;
+}
+footer {
+	background-color: #353535;
+	height: 50px;
+	color: #d4cfcf;
+	padding-top: 15px;
+	padding-left: 100px;
+}
